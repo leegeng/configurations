@@ -1,4 +1,4 @@
 # aliases
-alias ll="ls -lhAG"
-alias ls="ls -G"
+alias ll="ls -lhAG --color=auto"
+alias ls="ls -G --color=auto"
 alias grep="grep --color=auto"
